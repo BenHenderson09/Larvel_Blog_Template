@@ -1,0 +1,30 @@
+.box{
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    box-shadow:  0 2px 4px rgba(0, 0, 0, 0.11);
+}
+
+.box-body{
+    margin: 2vw;
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    padding-bottom: 5px;
+    box-shadow:  0 2px 4px rgba(0, 0, 0, 0.11);
+}
+
+.box-body .heading{
+    word-wrap: break-word;
+}
+
+.box-body .heading h1{
+    font-size: calc(30px + 4vw);
+    font-weight: lighter;
+}
+
+.box-body .info{
+    text-align: right !important;
+}
