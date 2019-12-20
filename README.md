@@ -1,4 +1,4 @@
-# Larvel_Blog_Template
+# Larvel-Blog-Template
 This application was developed to provide an easy way to quick-start any blogging related website with minimal unnecessary features.
 
 ## Application Details
